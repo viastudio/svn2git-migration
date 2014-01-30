@@ -1,0 +1,2 @@
+viastudio = VIA Studio <dev@viastudio.com>
+jmccreary = Jason McCreary <jason@pureconcepts.net>
